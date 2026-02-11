@@ -1,0 +1,6 @@
+ex00/
+__pycache__/
+*.ipynb_checkpoints
+.DS_Store
+audit_output.txt
+stocs_2021.png
